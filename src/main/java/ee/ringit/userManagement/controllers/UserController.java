@@ -1,4 +1,4 @@
-package ee.ringit.userManagement.users;
+package ee.ringit.userManagement.controllers;
 
 import org.springframework.stereotype.Controller;
 
